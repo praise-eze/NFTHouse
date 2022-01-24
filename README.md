@@ -8,5 +8,5 @@ This app is deployed on polygon and is still in production
 
 Name: NFT house  
 Video: https://youtu.be/HDwBRYOAxe0  
-Discord ID: 0xProf#7686  
+telegram contact ID: https://t.me/praiseoz   
 email address: ozzieprof@gmail.com
