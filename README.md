@@ -19,10 +19,11 @@ You can run this code locally by cloning the repo and runing the following comma
 yarn install
 ```
 
-or ```sh
+or
+```sh
 npm install
 
-````
+```
 
 to install node_modules
 and fill in your env variables
@@ -30,9 +31,10 @@ then
 
 ```sh
 yarn start
-````
+```
 
-or ```sh
+or
+```sh
 npm start
 
 ```
@@ -41,4 +43,5 @@ then run the code. anf you can now make cool nfts and put it for sale on the mar
 if you run into issues you can contact me on telegram and make sure you are using
 node `> 16.1.0`
 
-```
+
+<img width="1395" alt="Screenshot 2022-01-24 at 10 08 22 PM" src="https://user-images.githubusercontent.com/64668370/150865141-d3dd6ce8-20d5-480b-970a-6f10aa9af8f1.png">
