@@ -9,7 +9,7 @@ This app is deployed on polygon and is still in production
 Name: NFT house  
 Video: https://youtu.be/djud9ivqRn4    
 telegram contact ID: https://t.me/praiseoz    
-UD registrated email address: ozzieprof@gmail.com
+UD registered email address: ozzieprof@gmail.com
 
 ## runnign the code locally
 
